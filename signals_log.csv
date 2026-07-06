@@ -2,3 +2,4 @@ timestamp,session,signal,confidence,entry,stop_loss,tp1,tp2,tp3,alignment,sent
 2026-07-06T08:27:04.686671+00:00,London,BUY,HIGH,4166.3,4141.16,4183.06,4199.82,4216.58,"4/4 timeframes agree",yes
 2026-07-06T10:28:28.532682+00:00,London,BUY,HIGH,4161.1,4137.23,4208.84,4232.71,4256.59,"4h/30m/15m all BULLISH, ADX=26.0",yes
 2026-07-06T11:50:31.770151+00:00,London,BUY,HIGH,4168.3,4145.71,4213.48,4236.08,4258.67,"4h/30m/15m all BULLISH, ADX=26.2",no
+2026-07-06T15:30:56.556239+00:00,NY,HOLD,LOW,4151.9,None,None,None,None,"no trade - filters not met",no
