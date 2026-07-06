@@ -1,0 +1,2 @@
+timestamp,session,signal,confidence,entry,stop_loss,tp1,tp2,tp3,alignment,sent
+2026-07-06T08:27:04.686671+00:00,London,BUY,HIGH,4166.3,4141.16,4183.06,4199.82,4216.58,"4/4 timeframes agree",yes
