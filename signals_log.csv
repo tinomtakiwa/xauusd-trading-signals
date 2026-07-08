@@ -10,3 +10,4 @@ timestamp,session,signal,confidence,entry,stop_loss,tp1,tp2,tp3,alignment,sent
 2026-07-07T15:25:21.043663+00:00,NY,HOLD,LOW,4159.3,None,None,None,None,"no trade - filters not met",no
 2026-07-07T17:32:53.372496+00:00,NY,HOLD,LOW,4153.6,None,None,None,None,"no trade - filters not met",no
 2026-07-07T19:25:47.382270+00:00,NY,HOLD,LOW,4110.8,None,None,None,None,"no trade - filters not met",no
+2026-07-08T10:36:16.132827+00:00,London,HOLD,LOW,4061.6,None,None,None,None,"no trade - filters not met",no
