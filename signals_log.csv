@@ -30,3 +30,4 @@ timestamp,session,signal,confidence,entry,stop_loss,tp1,tp2,tp3,alignment,sent
 2026-07-13T09:24:50.791089+00:00,London,HOLD,LOW,4082.7,None,None,None,None,"no trade - filters not met",no
 2026-07-13T12:20:25.337181+00:00,London,HOLD,LOW,4063.8,None,None,None,None,"no trade - filters not met",no
 2026-07-13T15:21:35.810810+00:00,NY,SELL,HIGH,4023.5,4037.97,3994.57,3980.1,3965.64,"4h/30m/15m all BEARISH, ADX=28.4",yes
+2026-07-13T17:29:42.315887+00:00,NY,SELL,HIGH,4007.9,4022.28,3979.13,3964.75,3950.36,"4h/30m/15m all BEARISH, ADX=37.0",yes
