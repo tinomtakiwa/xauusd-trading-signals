@@ -93,3 +93,4 @@ timestamp,session,signal,confidence,entry,stop_loss,tp1,tp2,tp3,alignment,sent
 2026-07-22T20:11:15.117747+00:00,NY,BUY,MEDIUM,4136.9,4126.98,4156.74,4166.66,4176.58,"4h/30m/15m all BULLISH, ADX=24.8",yes
 2026-07-23T08:28:32.324778+00:00,London,HOLD,LOW,4094.1,None,None,None,None,"no trade - filters not met",no
 2026-07-23T10:40:53.753826+00:00,London,HOLD,LOW,4095.8,None,None,None,None,"no trade - filters not met",no
+2026-07-23T12:13:10.957712+00:00,London,HOLD,LOW,4086.0,None,None,None,None,"no trade - filters not met",no
